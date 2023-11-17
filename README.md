@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jay Labs</h1>
-<h3 align="center">A dedicated web developer from Chicago.</h3>
+<h1 align="left">Hi 👋, I'm Jay Labs</h1>
+<h3 align="left">A dedicated web developer from Chicago.</h3>
 <img src="https://media.tenor.com/AezZlqa4ZJYAAAAC/cowboy-bebop-hacker.gif" height="300" />
   
 - 🔭 I’m currently working on [the Worst Convention EverCon](https://github.com/labs404/Worst-Convention-Ever)
