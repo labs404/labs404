@@ -1,4 +1,4 @@
-<h1 align="left">Hi there, I'm Jay Labs</h1>
+<h1 align="left">Jay Labs</h1>
 <h3 align="left">A dedicated web developer from Chicago.</h3>
 <img src="https://media.tenor.com/AezZlqa4ZJYAAAAC/cowboy-bebop-hacker.gif" height="300" />
   
