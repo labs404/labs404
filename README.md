@@ -2,18 +2,12 @@
 <h3 align="left">A dedicated web developer from Chicago.</h3>
 <img src="https://media.tenor.com/AezZlqa4ZJYAAAAC/cowboy-bebop-hacker.gif" height="300" />
   
-- 🔭 I’m currently working on [the Worst Convention EverCon](https://github.com/labs404/Worst-Convention-Ever)
-
-- 🌱 I’m currently learning **Django** and taking a deeper dive into **Python**
-
-- 👨‍💻 All of my projects are available at [https://github.com/labs404](https://github.com/labs404)
-
+* 🔭 I’m currently working on [the Worst Convention EverCon](https://github.com/labs404/Worst-Convention-Ever)
+* 🌱 I’m currently learning **Django** and taking a deeper dive into **Python**
+* 👨‍💻 All of my projects are available at [https://github.com/labs404](https://github.com/labs404)
 - 💬 Ask me about **JavaScript, React, and troubleshooting code!**
-
 - 📫 How to reach me **jaylabs@outlook.com**
-
 - 📄 Know about my experiences [https://flowcv.com/resume/lhke6q5kcg](https://flowcv.com/resume/lhke6q5kcg)
-
 - ⚡ Fun fact **I started making static websites in 1997!**
 
 <h3 align="left">Connect with me:</h3>
