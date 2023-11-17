@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jay Labs</h1>
 <h3 align="center">A dedicated web developer from Chicago.</h3>
-<img alt="90s Anime Coding Gif" src="https://i.pinimg.com/originals/48/f0/85/48f08597f57fff39e981cf8ee92d53d2.gif" />
 <img src="https://media.tenor.com/AezZlqa4ZJYAAAAC/cowboy-bebop-hacker.gif" height="300" />
   
 - 🔭 I’m currently working on [the Worst Convention EverCon](https://github.com/labs404/Worst-Convention-Ever)
